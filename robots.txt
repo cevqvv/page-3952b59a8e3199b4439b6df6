@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3abc3256cb.zhengweiyiliao.cn/sitemap.xml
